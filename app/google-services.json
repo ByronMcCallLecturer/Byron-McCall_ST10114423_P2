@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "147438481450",
+    "firebase_url": "https://opscmm-8f189-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "opscmm-8f189",
+    "storage_bucket": "opscmm-8f189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147438481450:android:109b2d77b68496a6255353",
+        "android_client_info": {
+          "package_name": "com.example.opsc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37YUkT-aHcUHzRoRg86LZd54mhaNYfWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147438481450:android:c576520b7d1c5758255353",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37YUkT-aHcUHzRoRg86LZd54mhaNYfWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
